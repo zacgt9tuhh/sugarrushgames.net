@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sugarrushgames.net/sitemap.xml
